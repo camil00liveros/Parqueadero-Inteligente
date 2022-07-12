@@ -1,0 +1,25 @@
+.display-great { 
+display: inherit !important;
+}
+
+h1, h2 {
+text-align: center;
+}
+
+header, footer, #wrapper {
+
+margin-left: auto;
+margin-right: auto;
+clear: both; 
+width: 100%;
+max-width: 1500px;
+}
+#main-nav {
+
+float: left;
+width: 20%; 
+height: 40%;
+max-width: 1500px;
+
+}
+

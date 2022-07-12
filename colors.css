@@ -1,0 +1,68 @@
+body {
+color: #000000;
+}
+
+a, a:link, a:visited, a:active, a:hove {
+	color: #81C0C5;
+}
+
+a {
+	font-size: 24px;
+	font-weight: bold;
+	color: rgba(0,0,0,0.6);
+	text-decoration: none;
+	padding: 0.3em 0.5em;
+	border-radius: 5px;
+	background-color: rgba(255,255,255,0.3);
+	transition: background-color 1s linear;
+}
+
+h1{
+	
+}
+
+.logOut{
+    border: none;
+    margin-right: 2rem;
+    width: 8.5rem;
+    height: 3.5rem;
+    border-radius: 2%;
+    background-color:#3541eb;
+    font-size: 1.6rem;
+    color: floralwhite;
+}
+
+
+a:hover, input:hover, button:hover,
+a:focus, input:focus, button:focus{
+	background-color: rgb(79, 230, 230);
+}
+	
+ul{
+	font-size: 28px;
+}
+
+a:focus, input:focus, button:focus{
+	box-shadow: 0 0 0 3px rgba(0,0,0,0.25);
+	outline: 0;
+}
+
+header {
+	background: #f2503f;
+	padding: 1em;
+	color: #fff;S
+}
+
+nav {
+	background-color: #Fff0;
+}	
+
+section {
+	background-color: #87CEEB;
+}
+
+footer {
+	background-color: #154360;
+		color: #fff;
+}
+
